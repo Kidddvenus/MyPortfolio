@@ -210,7 +210,7 @@ We welcome contributions! Here's how you can help:
 
 <div align="center">
 
-**Hamad Anwar** - *Flutter Developer*
+**Reggie Omondir** - *Flutter Developer*
 
 [![Email](https://img.shields.io/badge/Email-reggieomondi2002@gmail.com-red.svg?style=for-the-badge&logo=gmail)](mailto:reggieomondi2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reggie%20Omondi-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reggie-omondi-1052b0275/)
