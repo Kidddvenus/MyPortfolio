@@ -11,7 +11,6 @@
 
 *A modern, responsive portfolio website built with Flutter that showcases projects, certifications, and professional information with elegant animations and cross-platform compatibility.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Portfolio-brightgreen.svg?style=for-the-badge&logo=github)](https://hamad-anwar.github.io/Portfolio/#/)
 [![Screenshot](https://img.shields.io/badge/Screenshot-Preview%20App-orange.svg?style=for-the-badge)](showcase.png)
 
 </div>
@@ -189,12 +188,6 @@ The app uses Flutter's responsive design principles with:
 
 ---
 
-## 🌟 Live Demo
-
-**Experience the portfolio live:** [https://hamad-anwar.github.io/Portfolio/#/](https://hamad-anwar.github.io/Portfolio/#/)
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
@@ -219,9 +212,8 @@ We welcome contributions! Here's how you can help:
 
 **Hamad Anwar** - *Flutter Developer*
 
-[![Email](https://img.shields.io/badge/Email-rh676838@gmail.com-red.svg?style=for-the-badge&logo=gmail)](mailto:rh676838@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamad%20Anwar-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamad-anwar)
-[![GitHub](https://img.shields.io/badge/GitHub-Hamad--Anwar-black.svg?style=for-the-badge&logo=github)](https://github.com/Hamad-Anwar)
+[![Email](https://img.shields.io/badge/Email-reggieomondi2002@gmail.com-red.svg?style=for-the-badge&logo=gmail)](mailto:reggieomondi2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reggie%20Omondi-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reggie-omondi-1052b0275/)
 
 </div>
 
@@ -237,7 +229,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ **Star this repository if you found it helpful!**
 
-**Made with ❤️ by [Hamad Anwar](https://www.linkedin.com/in/hamad-anwar/)**
+**Made with ❤️ by [Reggie Omondi](https://www.linkedin.com/in/reggie-omondi-1052b0275/)**
 
 [![Flutter](https://img.shields.io/badge/Built%20with-Flutter-blue.svg?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 [![Firebase](https://img.shields.io/badge/Powered%20by-Firebase-orange.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
