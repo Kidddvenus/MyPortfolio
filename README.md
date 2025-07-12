@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Flutter Responsive Portfolio WebApp
+# 🚀 My Portfolio WebApp
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue.svg?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-3.0+-blue.svg?style=for-the-badge&logo=dart)](https://dart.dev/)
